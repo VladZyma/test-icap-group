@@ -2,7 +2,7 @@ const baseURL = process.env.REACT_APP_API;
 console.log(baseURL);
 
 const urls = {
-  login: "/login",
+  login: "/login/",
   table: "/table",
 };
 
