@@ -1,0 +1,25 @@
+.pagination {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.prevBtn,
+.nextBtn {
+  width: 30px;
+  height: 30px;
+  border: none;
+  border-radius: 50%;
+  background-color: #4c6ef5;
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.prevBtn:hover,
+.nextBtn:hover {
+  background-color: #3b5bdb;
+}
+
+.pagination span {
+  margin: 0 15px;
+}

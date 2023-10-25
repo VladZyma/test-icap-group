@@ -1,0 +1,13 @@
+.delBtn {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #fa5252;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.delBtn:hover {
+  background-color: #e03131;
+}

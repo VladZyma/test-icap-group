@@ -1,0 +1,16 @@
+.table {
+  margin: 0 auto;
+}
+
+th {
+  background-color: #9775fa;
+}
+
+th,
+td {
+  padding: 10px 20px;
+}
+
+tfoot td {
+  column-span: all;
+}

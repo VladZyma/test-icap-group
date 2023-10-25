@@ -1,5 +1,11 @@
+import Table from "../features/user/Table";
+
 function TablePage() {
-  return <div></div>;
+  return (
+    <div>
+      <Table />
+    </div>
+  );
 }
 
 export default TablePage;
